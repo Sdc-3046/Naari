@@ -1,0 +1,12 @@
+First Upload: 22 Octomber
+	Function Working: Calling , Profile Save.
+	THE SOS CALL FUNCTION IS COMMENTED FOR SAFETY.	
+
+
+Second Upload: 24 Octomber
+	Function Working: Calling , Profile Save.
+	Changes Made: Improved display style in profile,settings,call page. Added Option to save names of important persons.
+
+4 Nov 2020:
+	WITH LOADING SCREEN + TAB LAYOUT IN TIPS + BACK PRESS EXIT 
+	TIPS+LAWS SECTION COMPLETE except Defence videos.
